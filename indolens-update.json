@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "app_id": "com.indolens.indolens_app",
+  "version_name": "1.1.7",
+  "build_number": 18,
+  "download_url": "https://indolenssolutions.github.io/indolens-android-updates/indolens-1.1.7-18.apk",
+  "sha256": "428d152bae51480f3f6df0194db2be66d19f177e72838115a373b392bc2f2e82",
+  "mandatory": false,
+  "release_notes": "Update business contacts and Android release hosting",
+  "published_at": "2026-09-13T09:41:13Z"
+}
