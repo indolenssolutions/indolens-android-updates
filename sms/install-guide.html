@@ -1,0 +1,53 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Indolens SMS: shop phone setup</title>
+<style>body{font-family:system-ui,-apple-system,Segoe UI,Roboto,sans-serif;max-width:760px;margin:0 auto;padding:16px;line-height:1.55;color:#1a1a1a}
+h1{color:#00649A}h2{color:#0683AF;border-bottom:1px solid #e5e5e5;padding-bottom:4px}code{background:#f3f4f6;padding:1px 4px;border-radius:4px}hr{border:0;border-top:1px solid #e5e5e5}</style>
+</head><body>
+<h1>Indolens SMS: shop phone setup (one page)</h1>
+<p><strong>You need:</strong></p>
+<ul>
+<li>the shop's Android phone with the shop SIM inserted;</li>
+<li>the <code class="notranslate">IndolensSMS-&lt;version&gt;.apk</code> file;</li>
+<li>a <strong>6-digit pairing code</strong> from the Indolens admin (valid for 5 minutes).</li>
+</ul>
+<h2>1. Install</h2>
+<ol>
+<li>Copy the APK to the phone (WhatsApp, USB or a download link) and tap it.</li>
+<li>If Android asks, allow <strong>Install unknown apps</strong> for the app you opened it from (Files, Chrome, WhatsApp).</li>
+<li>If Play Protect warns about an unknown app, tap <strong>More details → Install anyway</strong>.</li>
+</ol>
+<h2>2. Pair the phone</h2>
+<ol>
+<li>Open <strong>Indolens SMS</strong> and tap <strong>START SERVICE</strong>.</li>
+<li><strong>Shop name:</strong> type the shop name exactly as used in Indolens (e.g. <code class="notranslate">Indolens Anna Nagar</code>).</li>
+<li><strong>Use this phone to send login OTPs:</strong> tick this <strong>only on the one main phone</strong>. Leave it unticked on shop phones.</li>
+<li>On the <strong>PAIR WITH CODE</strong> tab, enter the 6-digit code from the admin and tap <strong>CONTINUE</strong>.</li>
+<li>Allow every permission Android asks for: <strong>SMS</strong>, <strong>Phone</strong> and <strong>Notifications</strong>.</li>
+<li>The Home screen should show your <strong>Shop</strong> and <strong>Role</strong>, and the button now reads <strong>STOP SERVICE</strong>.</li>
+</ol>
+<h2>3. Keep it running (important)</h2>
+<ul>
+<li><strong>Start on boot:</strong> turn this switch <strong>ON</strong> on the Home screen.</li>
+<li><strong>Battery optimisation:</strong> go to <strong>Settings tab → Battery optimization</strong> and allow the app to <strong>not</strong> be optimised.</li>
+<li><strong>Samsung:</strong> Android <strong>Settings → Apps → Indolens SMS → Battery → Unrestricted</strong>. Also check <strong>Settings → Battery → Background usage limits</strong> and make sure Indolens SMS is <strong>not</strong> in "Sleeping apps" or "Deep sleeping apps".</li>
+<li><strong>Xiaomi / Redmi / Oppo / Vivo:</strong> turn <strong>Autostart</strong> on for Indolens SMS, and set Battery saver to <strong>No restrictions</strong>.</li>
+<li>Keep the phone <strong>charging</strong> and on <strong>mobile data or Wi-Fi</strong>. Don't swipe away the "Listening to server events…" notification, and don't force-stop the app.</li>
+</ul>
+<h2>4. Choose the SIM (dual-SIM phones)</h2>
+<ul>
+<li>In Android <strong>Settings → Connections → SIM manager → SMS messages</strong> (Samsung), or <strong>Settings → SIM cards → SMS</strong>, choose the <strong>shop SIM</strong>.</li>
+<li>Or, in the app: <strong>Settings tab → Messages… → "If SIM number is not specified, use"</strong> → pick the shop SIM.</li>
+</ul>
+<h2>5. Check</h2>
+<p>Ask the admin to send a test SMS. It appears under the <strong>MESSAGES</strong> tab as <em>Sent</em>, then <em>Delivered</em>.</p>
+<hr>
+<h3>For the admin: getting a pairing code</h3>
+<p>On the already-paired <strong>main (OTP) phone</strong>: <strong>Settings tab → Indolens server… → Login Code</strong>. Enter the Indolens SMS<br>
+account password. A 6-digit code appears, valid for 5 minutes, one per new phone. The admin can also sign a phone in<br>
+with the account username and password (<strong>SIGN IN</strong> tab), but codes avoid sharing the password with shops.</p>
+<p><strong>To re-pair or change the OTP phone:</strong> <strong>Settings tab → Indolens server… → Unregister device</strong>, then pair again with<br>
+the correct OTP tick. Only one phone should have the OTP role. The tick only labels the phone (<code class="notranslate">[OTP]</code> in its name);<br>
+login OTPs go to the phone the Indolens tech team has pinned on the server, so tell them whenever the OTP phone<br>
+changes. Unregistering only unpairs the phone; the old entry stays on the server until the tech team deletes it.</p>
+</body></html>
