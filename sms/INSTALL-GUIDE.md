@@ -9,6 +9,9 @@
 1. Copy the APK to the phone (WhatsApp, USB or a download link) and tap it.
 2. If Android asks, allow **Install unknown apps** for the app you opened it from (Files, Chrome, WhatsApp).
 3. If Play Protect warns about an unknown app, tap **More details → Install anyway**.
+4. If Play Protect **blocks** the install (no "Install anyway"; this happens to sideloaded apps that use SMS):
+   open **Play Store → profile icon → Play Protect → ⚙ → turn off "Scan apps with Play Protect"**, install
+   (or update) Indolens SMS, then turn scanning back on. Ask the admin if you are unsure.
 
 ## 2. Pair the phone
 1. Open **Indolens SMS** and tap **START SERVICE**.
@@ -31,6 +34,13 @@
 
 ## 5. Check
 Ask the admin to send a test SMS. It appears under the **MESSAGES** tab as *Sent*, then *Delivered*.
+
+## 6. Updates
+When a new version is published the app shows **Update available** (at start-up, and a notification once a
+day). Tap **Download & install**; the app checks the download before opening the Android installer. A
+*required* update must be installed before the app can be used. If the installer says the app is blocked,
+see step 1.4. The latest APK, a QR code and this guide are also in the Indolens web app under
+**Settings → Indolens SMS app** (or **Store → Settings**).
 
 ---
 
