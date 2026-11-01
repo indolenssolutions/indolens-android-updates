@@ -3,7 +3,7 @@
 **You need:**
 - the shop's Android phone with the shop SIM inserted;
 - the `IndolensSMS-<version>.apk` file;
-- a **6-digit pairing code** from the Indolens admin (valid for 5 minutes).
+- a **6-character pairing code** (letters and numbers, e.g. `hja7pw`) from the Indolens admin (valid for 5 minutes).
 
 ## 1. Install
 1. Copy the APK to the phone (WhatsApp, USB or a download link) and tap it.
@@ -17,7 +17,7 @@
 1. Open **Indolens SMS** and tap **START SERVICE**.
 2. **Shop name:** type the shop name exactly as used in Indolens (e.g. `Indolens Anna Nagar`).
 3. **Use this phone to send login OTPs:** tick this **only on the one main phone**. Leave it unticked on shop phones.
-4. On the **PAIR WITH CODE** tab, enter the 6-digit code from the admin and tap **CONTINUE**.
+4. On the **PAIR WITH CODE** tab, enter the 6-character code from the admin (upper or lower case both work) and tap **CONTINUE**.
 5. Allow every permission Android asks for: **SMS**, **Phone** and **Notifications**.
 6. The Home screen should show your **Shop** and **Role**, and the button now reads **STOP SERVICE**.
 
@@ -46,7 +46,7 @@ see step 1.4. The latest APK, a QR code and this guide are also in the Indolens 
 
 ### For the admin: getting a pairing code
 On the already-paired **main (OTP) phone**: **Settings tab → Indolens server… → Login Code**. Enter the Indolens SMS
-account password. A 6-digit code appears, valid for 5 minutes, one per new phone. The admin can also sign a phone in
+account password. A 6-character code (letters and numbers) appears, valid for 5 minutes, one per new phone. The admin can also sign a phone in
 with the account username and password (**SIGN IN** tab), but codes avoid sharing the password with shops.
 
 **To re-pair or change the OTP phone:** **Settings tab → Indolens server… → Unregister device**, then pair again with

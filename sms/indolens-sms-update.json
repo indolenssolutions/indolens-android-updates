@@ -2,10 +2,10 @@
   "schema_version": 1,
   "app_id": "com.indolens.sms",
   "version_name": "1.0.0",
-  "build_number": 3,
-  "download_url": "https://indolenssolutions.github.io/indolens-android-updates/sms/IndolensSMS-1.0.0-3.apk",
-  "sha256": "883b442a5c99992252f591645b02c65768a3b2f751e98d2283b57041fbb96ca0",
+  "build_number": 4,
+  "download_url": "https://indolenssolutions.github.io/indolens-android-updates/sms/IndolensSMS-1.0.0-4.apk",
+  "sha256": "2b109a6d933332927004aa5068a5cb827426c8b30751be3296eb386a8804d536",
   "mandatory": false,
-  "release_notes": "Indolens SMS: SSE-only (no FCM), private server, rebrand and shop pairing",
-  "published_at": "2026-11-01T05:44:08Z"
+  "release_notes": "Pairing code: accept letters (server codes are alphanumeric)",
+  "published_at": "2026-11-01T09:55:57Z"
 }
