@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
   "app_id": "com.indolens.indolens_app",
-  "version_name": "1.1.7",
-  "build_number": 19,
-  "download_url": "https://indolenssolutions.github.io/indolens-android-updates/indolens-1.1.7-19.apk",
-  "sha256": "a4c3e7529ab9e2c15c0e7403ab60689c98b6576a3c1f1127bcc0d11fc3b8ee10",
+  "version_name": "1.1.8",
+  "build_number": 20,
+  "download_url": "https://indolenssolutions.github.io/indolens-android-updates/indolens-1.1.8-20.apk",
+  "sha256": "3d52768cd921d2c0b6fbac2e2c63874d853ec2ff40fd598a1b262ab72721c3d0",
   "mandatory": false,
-  "release_notes": "Create Agents.md",
-  "published_at": "2026-09-24T13:10:04Z"
+  "release_notes": "Merge pull request #3 from indolenssolutions/feat/self-hosted-api-and-updates",
+  "published_at": "2026-11-02T09:49:21Z"
 }
