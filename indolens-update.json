@@ -2,10 +2,10 @@
   "schema_version": 1,
   "app_id": "com.indolens.indolens_app",
   "version_name": "1.1.8",
-  "build_number": 24,
-  "download_url": "https://indolenssolutions.github.io/indolens-android-updates/indolens-1.1.8-24.apk",
-  "sha256": "5b099181babd908aa3a7c61c89149e040352964ee07cc23dd07360110cfcd6de",
+  "build_number": 25,
+  "download_url": "https://indolenssolutions.github.io/indolens-android-updates/indolens-1.1.8-25.apk",
+  "sha256": "2db8a3bf8ee06bdaa7fb8e884196da043fa44846756925b59b08a1c07358a56a",
   "mandatory": false,
-  "release_notes": "Merge pull request #8 from indolenssolutions/fix/appointment-ux",
-  "published_at": "2026-11-04T07:46:26Z"
+  "release_notes": "Merge pull request #7 from indolenssolutions/fix/real-lens-options",
+  "published_at": "2026-11-04T11:35:24Z"
 }
