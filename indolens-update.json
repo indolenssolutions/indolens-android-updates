@@ -2,10 +2,10 @@
   "schema_version": 1,
   "app_id": "com.indolens.indolens_app",
   "version_name": "1.1.8",
-  "build_number": 23,
-  "download_url": "https://indolenssolutions.github.io/indolens-android-updates/indolens-1.1.8-23.apk",
-  "sha256": "6de396c23d26a4fbda7974db0ece0d689901bcc93a49e0604d2ebc4aeca3205f",
+  "build_number": 24,
+  "download_url": "https://indolenssolutions.github.io/indolens-android-updates/indolens-1.1.8-24.apk",
+  "sha256": "5b099181babd908aa3a7c61c89149e040352964ee07cc23dd07360110cfcd6de",
   "mandatory": false,
-  "release_notes": "Merge pull request #6 from indolenssolutions/fix/server-side-coupons",
-  "published_at": "2026-11-04T07:28:59Z"
+  "release_notes": "Merge pull request #8 from indolenssolutions/fix/appointment-ux",
+  "published_at": "2026-11-04T07:46:26Z"
 }
