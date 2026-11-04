@@ -2,10 +2,10 @@
   "schema_version": 1,
   "app_id": "com.indolens.indolens_app",
   "version_name": "1.1.8",
-  "build_number": 25,
-  "download_url": "https://indolenssolutions.github.io/indolens-android-updates/indolens-1.1.8-25.apk",
-  "sha256": "2db8a3bf8ee06bdaa7fb8e884196da043fa44846756925b59b08a1c07358a56a",
+  "build_number": 26,
+  "download_url": "https://indolenssolutions.github.io/indolens-android-updates/indolens-1.1.8-26.apk",
+  "sha256": "7dfbc875e66d2a3252adc9b10b83073d7b65178b5775ed949550608e0ad98c08",
   "mandatory": false,
-  "release_notes": "Merge pull request #7 from indolenssolutions/fix/real-lens-options",
-  "published_at": "2026-11-04T11:35:24Z"
+  "release_notes": "Merge pull request #9 from indolenssolutions/fix/appointment-contact-prefill",
+  "published_at": "2026-11-04T11:49:32Z"
 }
