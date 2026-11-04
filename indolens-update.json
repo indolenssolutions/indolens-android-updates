@@ -2,10 +2,10 @@
   "schema_version": 1,
   "app_id": "com.indolens.indolens_app",
   "version_name": "1.1.8",
-  "build_number": 21,
-  "download_url": "https://indolenssolutions.github.io/indolens-android-updates/indolens-1.1.8-21.apk",
-  "sha256": "dc05aee7ff0ea993cccb05525f1b563b99a9fd29440fcdcc67f7fb6a6ea7b18a",
+  "build_number": 22,
+  "download_url": "https://indolenssolutions.github.io/indolens-android-updates/indolens-1.1.8-22.apk",
+  "sha256": "867f4b103687834a064e7905aa643eb82558d933cdb3d8ca619b3fd8f36bc405",
   "mandatory": false,
-  "release_notes": "Merge pull request #4 from indolenssolutions/fix/guest-no-mock-data",
-  "published_at": "2026-11-02T11:20:42Z"
+  "release_notes": "Merge pull request #5 from indolenssolutions/fix/updater-installer-dead-end",
+  "published_at": "2026-11-04T07:13:22Z"
 }
