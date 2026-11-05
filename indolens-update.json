@@ -2,10 +2,10 @@
   "schema_version": 1,
   "app_id": "com.indolens.indolens_app",
   "version_name": "1.1.8",
-  "build_number": 27,
-  "download_url": "https://indolenssolutions.github.io/indolens-android-updates/indolens-1.1.8-27.apk",
-  "sha256": "e035f3f73d1bd326ec35b227d98b52568627ff974e6b3576191bc5be7ded3b8e",
+  "build_number": 28,
+  "download_url": "https://indolenssolutions.github.io/indolens-android-updates/indolens-1.1.8-28.apk",
+  "sha256": "58bd8181e634e354277605e06fb1ffa8e01a46219905d4fde65074fab1001594",
   "mandatory": false,
-  "release_notes": "Merge pull request #11 from indolenssolutions/fix/aftercare-no-phone",
-  "published_at": "2026-11-04T16:01:41Z"
+  "release_notes": "Merge pull request #12 from indolenssolutions/fix/device-test-followups",
+  "published_at": "2026-11-05T09:37:15Z"
 }
