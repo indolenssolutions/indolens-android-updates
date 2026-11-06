@@ -2,10 +2,10 @@
   "schema_version": 1,
   "app_id": "com.indolens.indolens_app",
   "version_name": "1.1.8",
-  "build_number": 31,
-  "download_url": "https://indolenssolutions.github.io/indolens-android-updates/indolens-1.1.8-31.apk",
-  "sha256": "bd420a2f9dcca71aa5e616df71627f704bd758a216ce8d86b2d79481ec37f823",
+  "build_number": 32,
+  "download_url": "https://indolenssolutions.github.io/indolens-android-updates/indolens-1.1.8-32.apk",
+  "sha256": "e6def56bc72841065c49eaf96b3b3fce335f0733a65a676a3ec26cffedb58a93",
   "mandatory": false,
-  "release_notes": "Merge pull request #16 from indolenssolutions/fix/lens-contract-codes",
-  "published_at": "2026-11-06T07:33:44Z"
+  "release_notes": "Merge pull request #17 from indolenssolutions/feat/pre-golive-batch",
+  "published_at": "2026-11-06T13:18:57Z"
 }
