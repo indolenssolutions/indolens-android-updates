@@ -2,10 +2,10 @@
   "schema_version": 1,
   "app_id": "com.indolens.indolens_app",
   "version_name": "1.1.8",
-  "build_number": 29,
-  "download_url": "https://indolenssolutions.github.io/indolens-android-updates/indolens-1.1.8-29.apk",
-  "sha256": "6a665c3e21a95c71281a2d718915ff8784b967fa7b38be0d929775710f8610f0",
+  "build_number": 30,
+  "download_url": "https://indolenssolutions.github.io/indolens-android-updates/indolens-1.1.8-30.apk",
+  "sha256": "3b381152164bb137b6c8cda3aa7c72f6faf17ac2f851910905762e910002aca9",
   "mandatory": false,
-  "release_notes": "Merge pull request #13 from indolenssolutions/fix/bag-coupon-copy-snackbar",
-  "published_at": "2026-11-05T12:54:04Z"
+  "release_notes": "Merge pull request #15 from indolenssolutions/feat/catalog-lenses",
+  "published_at": "2026-11-06T06:03:37Z"
 }
